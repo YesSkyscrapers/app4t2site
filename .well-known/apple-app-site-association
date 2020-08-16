@@ -1,0 +1,19 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "LLBNT8CY42.ru.nasvyazi",
+        "paths": [
+          "*"
+        ]
+      },
+       {
+        "appID": "78J68CGK88.ru.nasvyazi",
+        "paths": [
+          "*"
+        ]
+      },
+    ]
+  }
+}
